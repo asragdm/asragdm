@@ -4,4 +4,4 @@
 🐍 Python
 🚀 Building projects and improving my skills
 
-![Hypno Parrot](https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif)
+![AI GIF](./giphy.gif)
