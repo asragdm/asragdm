@@ -4,4 +4,4 @@
 🐍 Python
 🚀 Building projects and improving my skills
 
-![Asra GIF](./asra.gif)
+![Hypno Parrot](https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif)
