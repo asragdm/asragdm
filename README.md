@@ -1,7 +1,9 @@
-# Hi, I'm Asra 👋
+## 👋 Hi, I’m Asra!
 
-🤖 AI & Machine Learning
-🐍 Python
-🚀 Building projects and improving my skills
+🤖 AI & Machine Learning Learner
+🐍 Learning Python
+🚀 Building my future in Artificial Intelligence
 
-![My AI GIF](./asra.gif)
+<p align="center">
+  <img src="./asra.gif" width="400" alt="Asra AI GIF" />
+</p>
