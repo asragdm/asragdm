@@ -4,4 +4,4 @@
 🐍 Python
 🚀 Building projects and improving my skills
 
-![Asra GIF](./asra.gif)
+![My AI GIF](./giphy.webp)
